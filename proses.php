@@ -16,4 +16,4 @@ move_uploaded_file($nama_tmp,$upload_dir.$nama_file);
 echo "File berhasil diunggah. <br>"
 ?>
 <img src="upload/<?php echo $nama_file; ?>">
-
+<a href = "formawal.html"> Halaman awal </a>
